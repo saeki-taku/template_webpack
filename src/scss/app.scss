@@ -1,0 +1,24 @@
+h1 {
+  font-size: 2em;
+  transition: all .5s;
+  appearance: icon;
+  writing-mode: horizontal-tb;
+
+  &:hover {
+    transform: translateX(50px);
+    color: red;
+  }
+}
+img {
+  width: 500px;
+  height: auto;
+}
+
+.bg {
+  // background-image: url('~@imgs/tools.jpg');
+  background-image: url('images/tools.jpg');
+  // background-image: url('~images/tools.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
