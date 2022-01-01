@@ -1,4 +1,4 @@
-# webpack_2021_6
+# webpack_template
 
 ## 制作時期
 #### 2021/07
